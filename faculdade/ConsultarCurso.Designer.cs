@@ -1,0 +1,103 @@
+﻿namespace faculdade
+{
+    partial class ConsultarCurso
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ConsultarCurso));
+            this.DgvCurso = new System.Windows.Forms.DataGridView();
+            this.BtnVoltar = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.DgvCurso)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // DgvCurso
+            // 
+            this.DgvCurso.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DgvCurso.Location = new System.Drawing.Point(265, 123);
+            this.DgvCurso.Name = "DgvCurso";
+            this.DgvCurso.RowHeadersWidth = 51;
+            this.DgvCurso.RowTemplate.Height = 24;
+            this.DgvCurso.Size = new System.Drawing.Size(870, 436);
+            this.DgvCurso.TabIndex = 0;
+            this.DgvCurso.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvCurso_CellContentClick);
+            // 
+            // BtnVoltar
+            // 
+            this.BtnVoltar.BackColor = System.Drawing.Color.DarkKhaki;
+            this.BtnVoltar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.BtnVoltar.FlatAppearance.BorderSize = 0;
+            this.BtnVoltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BtnVoltar.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnVoltar.ForeColor = System.Drawing.Color.White;
+            this.BtnVoltar.Location = new System.Drawing.Point(640, 599);
+            this.BtnVoltar.Name = "BtnVoltar";
+            this.BtnVoltar.Size = new System.Drawing.Size(130, 55);
+            this.BtnVoltar.TabIndex = 29;
+            this.BtnVoltar.Text = "Voltar";
+            this.BtnVoltar.UseVisualStyleBackColor = false;
+            this.BtnVoltar.Click += new System.EventHandler(this.BtnVoltar_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.DarkKhaki;
+            this.label1.Location = new System.Drawing.Point(535, 37);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(303, 45);
+            this.label1.TabIndex = 30;
+            this.label1.Text = "Consulta do Curso";
+            // 
+            // ConsultarCurso
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1348, 721);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.BtnVoltar);
+            this.Controls.Add(this.DgvCurso);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.Name = "ConsultarCurso";
+            this.Text = "ConsultarCurso";
+            ((System.ComponentModel.ISupportInitialize)(this.DgvCurso)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.DataGridView DgvCurso;
+        private System.Windows.Forms.Button BtnVoltar;
+        private System.Windows.Forms.Label label1;
+    }
+}

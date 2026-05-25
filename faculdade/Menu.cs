@@ -12,38 +12,50 @@ namespace faculdade
 {
     public partial class Menu : Form
     {
+        // declaração das telas
+        MenuCurso MenuCurso;
+        MenuAluno MenuAluno;
+        MenuProfessor MenuProfessor;
+        MenuDisciplina MenuDisciplina;
+        MenuProva MenuProva;
         public Menu()
         {
             InitializeComponent();
         }
 
-        private void Menu_Load(object sender, EventArgs e)
+        private void BtnCurso_Click(object sender, EventArgs e)
         {
-
+            MenuCurso = new MenuCurso();
+            MenuCurso.ShowDialog();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void BtnAluno_Click(object sender, EventArgs e)
         {
-            CadastrarAluno cad = new CadastrarAluno();
-            cad.ShowDialog();
+            MenuAluno = new MenuAluno();
+            MenuAluno.ShowDialog();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void BtnProfessor_Click(object sender, EventArgs e)
         {
-            ConsultarAluno con = new ConsultarAluno();
-            con.ShowDialog();
+            MenuProfessor = new MenuProfessor();
+            MenuProfessor.ShowDialog();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void BtnDisciplina_Click(object sender, EventArgs e)
         {
-            AtualizarAluno atu = new AtualizarAluno();
-            atu.ShowDialog();
+            MenuDisciplina = new MenuDisciplina();
+            MenuDisciplina.ShowDialog();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void BtnProva_Click(object sender, EventArgs e)
         {
-            ExcluirAluno exc = new ExcluirAluno();
-            exc.ShowDialog();
+            MenuProva = new MenuProva();
+            MenuProva.ShowDialog();
+        }
+
+        private void BtnSair_Click(object sender, EventArgs e)
+        {
+            this.Close(); // Fecha o Menu Principal
         }
     }
 }

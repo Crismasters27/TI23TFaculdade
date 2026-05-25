@@ -100,11 +100,35 @@
     <Compile Include="AtualizarAluno.Designer.cs">
       <DependentUpon>AtualizarAluno.cs</DependentUpon>
     </Compile>
+    <Compile Include="AtualizarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AtualizarCurso.Designer.cs">
+      <DependentUpon>AtualizarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AtualizarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AtualizarProfessor.Designer.cs">
+      <DependentUpon>AtualizarProfessor.cs</DependentUpon>
+    </Compile>
     <Compile Include="CadastrarAluno.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="CadastrarAluno.Designer.cs">
       <DependentUpon>CadastrarAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarCurso.Designer.cs">
+      <DependentUpon>CadastrarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarProfessor.Designer.cs">
+      <DependentUpon>CadastrarProfessor.cs</DependentUpon>
     </Compile>
     <Compile Include="ConsultarAluno.cs">
       <SubType>Form</SubType>
@@ -112,11 +136,18 @@
     <Compile Include="ConsultarAluno.Designer.cs">
       <DependentUpon>ConsultarAluno.cs</DependentUpon>
     </Compile>
-    <Compile Include="ControlAluno.cs" />
-    <Compile Include="ControlCurso.cs" />
-    <Compile Include="ControlDisciplina.cs" />
-    <Compile Include="ControlProfessor.cs" />
-    <Compile Include="ControlProva.cs" />
+    <Compile Include="ConsultarCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarCurso.Designer.cs">
+      <DependentUpon>ConsultarCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultarProfessor.Designer.cs">
+      <DependentUpon>ConsultarProfessor.cs</DependentUpon>
+    </Compile>
     <Compile Include="DAOAluno.cs" />
     <Compile Include="DAOCurso.cs" />
     <Compile Include="DAODisciplina.cs" />
@@ -128,26 +159,128 @@
     <Compile Include="ExcluirAluno.Designer.cs">
       <DependentUpon>ExcluirAluno.cs</DependentUpon>
     </Compile>
+    <Compile Include="ExcluirCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcluirCurso.Designer.cs">
+      <DependentUpon>ExcluirCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExcluirProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcluirProfessor.Designer.cs">
+      <DependentUpon>ExcluirProfessor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAluno.Designer.cs">
+      <DependentUpon>MenuAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCurso.Designer.cs">
+      <DependentUpon>MenuCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuDisciplina.Designer.cs">
+      <DependentUpon>MenuDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuProfessor.Designer.cs">
+      <DependentUpon>MenuProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuProva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuProva.Designer.cs">
+      <DependentUpon>MenuProva.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="AtualizarAluno.resx">
+      <DependentUpon>AtualizarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AtualizarCurso.resx">
+      <DependentUpon>AtualizarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AtualizarProfessor.resx">
+      <DependentUpon>AtualizarProfessor.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CadastrarAluno.resx">
       <DependentUpon>CadastrarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarCurso.resx">
+      <DependentUpon>CadastrarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarProfessor.resx">
+      <DependentUpon>CadastrarProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarAluno.resx">
+      <DependentUpon>ConsultarAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarCurso.resx">
+      <DependentUpon>ConsultarCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultarProfessor.resx">
+      <DependentUpon>ConsultarProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirAluno.resx">
+      <DependentUpon>ExcluirAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirCurso.resx">
+      <DependentUpon>ExcluirCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirProfessor.resx">
+      <DependentUpon>ExcluirProfessor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MenuAluno.resx">
+      <DependentUpon>MenuAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCurso.resx">
+      <DependentUpon>MenuCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuDisciplina.resx">
+      <DependentUpon>MenuDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuProfessor.resx">
+      <DependentUpon>MenuProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuProva.resx">
+      <DependentUpon>MenuProva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 23 de mai. de 2026, 13_39_36.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

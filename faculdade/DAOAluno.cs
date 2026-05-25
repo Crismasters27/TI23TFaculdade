@@ -3,104 +3,214 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MySql.Data.MySqlClient;//Importando os comandos de conexão com o banco
-using System.Windows.Forms;//Importando a estrutura de telas
+using MySql.Data.MySqlClient; // importando os comandos de conexão com o banco
+using System.Windows.Forms;  // importando a estrutura de telas
 
 namespace faculdade
 {
     class DAOAluno
     {
-        public MySqlConnection conexao;
+        // conexão
+        public MySqlConnection conexao; // variável de conexão
+        public string dados;            // guardar dados
+        public string comando;          // guardar comando sql
 
-        public int[] matricula;
+        // vetores
+        public int[] numeroMatricula;
         public string[] nome;
-        public string[] data_ingresso;
-        public int[] codigo_curso;
+        public DateTime[] dataIngresso;  // DateTime para armazenar a data
+        public int[] codigoCurso;
 
+        // apoio
         public int i;
         public int contar;
+        public string msg;
 
+        // construtor
         public DAOAluno()
         {
-            conexao = new MySqlConnection(
-                "server=localhost;database=faculdade;uid=root;password=;"
-            );
-
+            // conexão com o banco de dados
+            this.conexao = new MySqlConnection("server=localhost;DataBase=faculdade;Uid=root;Password=;Convert Zero DateTime=True");
             try
             {
-                conexao.Open();
+                this.conexao.Open(); // abrir a conexão
             }
             catch (Exception erro)
             {
-                MessageBox.Show("Erro ao conectar: " + erro);
-            }
-        }
+                MessageBox.Show($"Algo deu errado!\n\n {erro}");
+                this.conexao.Close(); // fechar a conexão com o BD
+            }// fim do try_catch
+        }// fim do construtor
 
-        // INSERIR
-        public void Inserir(int matricula, string nome, string dataIngresso, int codigoCurso)
+        // inserir os dados
+        public void Inserir(string nome, DateTime dataIngresso, int codigoCurso)
         {
-            string query = $"insert into aluno values('{matricula}','{nome}','{dataIngresso}','{codigoCurso}')";
-            MySqlCommand sql = new MySqlCommand(query, conexao);
-            sql.ExecuteNonQuery();
+            try
+            {
+                string data = dataIngresso.ToString("yyyy-MM-dd"); // converter para o formato do MySQL
+                this.dados = $"('','{nome}','{data}','{codigoCurso}')";
+                this.comando = $"insert into aluno(numeroMatricula, nome, dataIngresso, codigoCurso) values{this.dados}";
+                MySqlCommand sql = new MySqlCommand(this.comando, this.conexao);
+                string resultado = "" + sql.ExecuteNonQuery();
+                MessageBox.Show($"Inserido com sucesso!\n\n{resultado}");
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show($"Algo deu errado\n\n {erro}");
+            }// fim do catch
+        }// fim do método inserir
 
-            MessageBox.Show("Aluno cadastrado com sucesso!");
-        }
-
-        // PREENCHER VETOR
+        // preencher vetor
         public void PreencherVetor()
         {
-            matricula = new int[100];
-            nome = new string[100];
-            data_ingresso = new string[100];
-            codigo_curso = new int[100];
+            string query = "select * from aluno"; // buscar tudo da tabela
 
-            i = 0;
-            contar = 0;
+            // instanciar vetores
+            this.numeroMatricula = new int[100];
+            this.nome = new string[100];
+            this.dataIngresso = new DateTime[100]; // vetor DateTime
+            this.codigoCurso = new int[100];
 
-            string query = "select * from aluno";
-            MySqlCommand sql = new MySqlCommand(query, conexao);
-            MySqlDataReader leitor = sql.ExecuteReader();
-
-            while (leitor.Read())
+            // preencher vetores com valores padrões
+            for (i = 0; i < 100; i++)
             {
-                matricula[i] = Convert.ToInt32(leitor["matricula"]);
-                nome[i] = leitor["nome"].ToString();
-                data_ingresso[i] = leitor["data_ingresso"].ToString();
-                codigo_curso[i] = Convert.ToInt32(leitor["codigo_curso"]);
+                this.numeroMatricula[i] = 0;
+                this.nome[i] = "";
+                this.dataIngresso[i] = DateTime.MinValue; // valor padrão para DateTime
+                this.codigoCurso[i] = 0;
+            }// fim do for
 
+            // executar o comando SQL
+            MySqlCommand coletar = new MySqlCommand(query, this.conexao);
+
+            // leitura do dado do banco
+            MySqlDataReader leitura = coletar.ExecuteReader();
+
+            // zerar contador
+            i = 0;
+            this.contar = 0;
+
+            // preencher vetores
+            while (leitura.Read())
+            {
+                this.numeroMatricula[i] = Convert.ToInt32(leitura["numeroMatricula"]);
+                this.nome[i] = leitura["nome"] + "";
+                this.dataIngresso[i] = Convert.ToDateTime(leitura["dataIngresso"]); // armazena como DateTime
+                this.codigoCurso[i] = Convert.ToInt32(leitura["codigoCurso"]);
                 i++;
-                contar++;
-            }
+                this.contar++; // informar quantos dados tem no banco
+            }// fim do while
 
-            leitor.Close();
-        }
+            leitura.Close(); // fechar leitura
+        }// fim preencher vetor
 
-        // CONSULTAR TUDO
+        // consultar tudo
         public string ConsultarTudo()
         {
             PreencherVetor();
-            string msg = "";
-
-            for (i = 0; i < contar; i++)
+            this.msg = "";
+            for (i = 0; i < this.contar; i++)
             {
-                msg += "\nMatrícula: " + matricula[i] +
-                       "\nNome: " + nome[i] +
-                       "\nData Ingresso: " + data_ingresso[i] +
-                       "\nCurso: " + codigo_curso[i] +
-                       "\n----------------------\n";
+                this.msg += $"\nMatrícula:      {this.numeroMatricula[i]} " +
+                            $"\nNome:           {this.nome[i]} " +
+                            $"\nData Ingresso:  {this.dataIngresso[i].ToString("dd/MM/yyyy")}" + // formata na exibição
+                            $"\nCódigo Curso:   {this.codigoCurso[i]}\n\n";
             }
+            return this.msg;
+        }// fim do consultar tudo
 
-            return msg;
-        }
-
-        // DELETAR
-        public string Deletar(int matricula)
+        // consultar por matrícula
+        public string ConsultarPorMatricula(int numeroMatricula)
         {
-            string query = $"delete from aluno where matricula = '{matricula}'";
-            MySqlCommand sql = new MySqlCommand(query, conexao);
-            sql.ExecuteNonQuery();
+            PreencherVetor();
+            this.msg = "";
+            for (i = 0; i < this.contar; i++)
+            {
+                if (this.numeroMatricula[i] == numeroMatricula)
+                {
+                    this.msg = $"\nMatrícula:      {this.numeroMatricula[i]} " +
+                               $"\nNome:           {this.nome[i]} " +
+                               $"\nData Ingresso:  {this.dataIngresso[i].ToString("dd/MM/yyyy")}" +
+                               $"\nCódigo Curso:   {this.codigoCurso[i]}\n\n";
+                    return this.msg;
+                }// fim do if
+            }// fim do for
+            return "Matrícula informada não existe!";
+        }// fim do consultar por matrícula
 
-            return "Aluno excluído com sucesso!";
-        }
-    }
-}
+        // consultar nome
+        public string ConsultarNome(int numeroMatricula)
+        {
+            PreencherVetor();
+            for (i = 0; i < this.contar; i++)
+            {
+                if (this.numeroMatricula[i] == numeroMatricula)
+                {
+                    return this.nome[i];
+                }// fim do if
+            }// fim do for
+            return "Matrícula informada não existe!";
+        }// fim consultar nome
+
+        // consultar data ingresso
+        public DateTime ConsultarDataIngresso(int numeroMatricula)
+        {
+            PreencherVetor();
+            for (i = 0; i < this.contar; i++)
+            {
+                if (this.numeroMatricula[i] == numeroMatricula)
+                {
+                    return this.dataIngresso[i]; // retorna DateTime
+                }// fim do if
+            }// fim do for
+            return DateTime.MinValue; // retorna valor padrão se não encontrar
+        }// fim consultar data ingresso
+
+        // consultar código curso
+        public int ConsultarCodigoCurso(int numeroMatricula)
+        {
+            PreencherVetor();
+            for (i = 0; i < this.contar; i++)
+            {
+                if (this.numeroMatricula[i] == numeroMatricula)
+                {
+                    return this.codigoCurso[i];
+                }// fim do if
+            }// fim do for
+            return 0;
+        }// fim consultar código curso
+
+        // atualizar
+        public string Atualizar(int numeroMatricula, string campo, string novoDado)
+        {
+            try
+            {
+                string query = $"update aluno set {campo} = '{novoDado}' where numeroMatricula = '{numeroMatricula}'";
+                MySqlCommand sql = new MySqlCommand(query, this.conexao);
+                string resultado = "" + sql.ExecuteNonQuery();
+                return $"Atualizado com sucesso\n\n {resultado}";
+            }
+            catch (Exception erro)
+            {
+                return $"Algo deu errado\n\n {erro}";
+            }
+        }// fim atualizar
+
+        // deletar
+        public string Deletar(int numeroMatricula)
+        {
+            try
+            {
+                string query = $"delete from aluno where numeroMatricula = '{numeroMatricula}'";
+                MySqlCommand sql = new MySqlCommand(query, this.conexao);
+                string resultado = "" + sql.ExecuteNonQuery();
+                return $"Deletado com sucesso\n\n {resultado}";
+            }
+            catch (Exception erro)
+            {
+                return $"Algo deu errado\n\n {erro}";
+            }
+        }// fim do deletar
+
+    }// fim da classe
+}// fim do projeto
