@@ -56,3 +56,12 @@ C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.Consult
 C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.ConsultarProfessor.resources
 C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.ExcluirAluno.resources
 C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.ExcluirProfessor.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.AtualizarDisciplina.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.AtualizarProva.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.CadastrarDisciplina.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.CadastrarProva.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.ConsultarDisciplina.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.ConsultarProva.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.ExcluirDisciplina.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.ExcluirProva.resources
+C:\Users\criss\source\repos\TI23TFaculdade\faculdade\obj\Debug\faculdade.Login.resources

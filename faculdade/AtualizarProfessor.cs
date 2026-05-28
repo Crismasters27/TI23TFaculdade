@@ -102,7 +102,7 @@ namespace faculdade
 
         private void BtnVoltar_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
     }
 }

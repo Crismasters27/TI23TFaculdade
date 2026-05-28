@@ -24,7 +24,7 @@ namespace faculdade
         private void TxtCodigo_TextChanged(object sender, EventArgs e)
         {
 
-        }
+        }// fim textbox Código
 
         // botão excluir
         private void BtnExcluir_Click(object sender, EventArgs e)
@@ -47,7 +47,8 @@ namespace faculdade
                 else
                 {
                     // confirmar exclusão
-                    DialogResult confirmar = MessageBox.Show($"Deseja excluir o curso {titulo}?", "Confirmar Exclusão", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                    DialogResult confirmar = MessageBox.Show($"Deseja excluir o curso {titulo}?", 
+                        "Confirmar Exclusão", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
 
                     if (confirmar == DialogResult.Yes)
                     {
@@ -63,5 +64,5 @@ namespace faculdade
         {
             this.Close();
         }// fim do botão voltar
-    }
-}
+    }// fim da classe
+}// fim do projeto

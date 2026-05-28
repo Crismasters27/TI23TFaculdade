@@ -26,7 +26,7 @@ namespace faculdade
         public string[] tipo;
         public int[] duracao;
 
-        // apoio
+        // instância
 
         public int i;
         public int contar;

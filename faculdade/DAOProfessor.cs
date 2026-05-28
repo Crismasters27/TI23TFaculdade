@@ -22,7 +22,7 @@ namespace faculdade
         public string[] departamento;
         public int[] cargaHoraria;
 
-        // apoio
+        // instância
         public int i;
         public int contar;
         public string msg;

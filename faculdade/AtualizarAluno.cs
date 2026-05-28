@@ -63,12 +63,12 @@ namespace faculdade
             else
             {
                 int matricula = Convert.ToInt32(TxtMatricula.Text);
-                string dataFormatada = DtpDataIngresso.Value.ToString("yyyy-MM-dd");
+                string data = DtpDataIngresso.Value.ToString("yyyy-MM-dd");
                 dynamic itemSelecionado = CmbCurso.SelectedItem;
                 int codigoCurso = itemSelecionado.Valor;
 
                 this.dao.Atualizar(matricula, "nome", TxtNome.Text);
-                this.dao.Atualizar(matricula, "dataIngresso", dataFormatada);
+                this.dao.Atualizar(matricula, "dataIngresso", data);
                 string resultado = this.dao.Atualizar(matricula, "codigoCurso", codigoCurso.ToString());
                 MessageBox.Show(resultado);
 

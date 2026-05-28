@@ -21,7 +21,7 @@ namespace faculdade
         public DateTime[] dataIngresso;  // DateTime para armazenar a data
         public int[] codigoCurso;
 
-        // apoio
+        // instância
         public int i;
         public int contar;
         public string msg;

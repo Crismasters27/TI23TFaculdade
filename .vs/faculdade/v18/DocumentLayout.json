@@ -3,84 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\daoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\consultarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\menuprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menuprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menuprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menuprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\daoprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daoprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\daoprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daoprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\daodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\daocurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daocurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menuprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menuprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menuprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menuprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menudisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menudisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menucurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menucurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluirprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluirprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluirdisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluirdisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -91,36 +79,164 @@
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menuprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menuprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluircurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluirprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluirprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menuprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menuprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluirdisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluirdisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluirprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizaraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrardisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menuprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menuprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menudisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menudisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\excluiraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastraraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\atualizarcurso.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\atualizarcurso.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|c:\\users\\criss\\source\\repos\\ti23tfaculdade\\faculdade\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,40 +247,12 @@
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\daoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\consultarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\consultarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menualuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\menucurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\menucurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\daocurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daocurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\cadastrarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\cadastrarcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\daodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daodisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\daoprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C02847-5FF5-45B2-8092-EDA324322BCE}|faculdade\\faculdade.csproj|solutionrelative:faculdade\\daoprova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -174,139 +262,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 42,
               "Title": "ConsultarAluno.cs",
               "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarAluno.cs",
               "RelativeDocumentMoniker": "faculdade\\ConsultarAluno.cs",
               "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarAluno.cs",
               "RelativeToolTip": "faculdade\\ConsultarAluno.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAtwE4AAABcAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-24T22:37:50.209Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CadastrarProfessor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\CadastrarProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProfessor.cs [Design]",
-              "RelativeToolTip": "faculdade\\CadastrarProfessor.cs [Design]",
+              "Title": "DAOAluno.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\DAOAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOAluno.cs",
+              "RelativeToolTip": "faculdade\\DAOAluno.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T18:43:07.915Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CadastrarProfessor.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\CadastrarProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProfessor.cs",
-              "RelativeToolTip": "faculdade\\CadastrarProfessor.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T04:49:00.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConsultarProfessor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\ConsultarProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProfessor.cs [Design]",
-              "RelativeToolTip": "faculdade\\ConsultarProfessor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T18:44:31.914Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConsultarProfessor.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\ConsultarProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProfessor.cs",
-              "RelativeToolTip": "faculdade\\ConsultarProfessor.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwEQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T13:10:53.201Z",
+              "WhenOpened": "2026-05-23T03:41:30.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AtualizarProfessor.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\AtualizarProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProfessor.cs",
-              "RelativeToolTip": "faculdade\\AtualizarProfessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Title": "DAOCurso.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOCurso.cs",
+              "RelativeDocumentMoniker": "faculdade\\DAOCurso.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOCurso.cs",
+              "RelativeToolTip": "faculdade\\DAOCurso.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T14:10:33.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T03:52:51.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuProfessor.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\MenuProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProfessor.cs",
-              "RelativeToolTip": "faculdade\\MenuProfessor.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DAODisciplina.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAODisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\DAODisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAODisciplina.cs",
+              "RelativeToolTip": "faculdade\\DAODisciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T03:26:39.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T17:06:25.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuProfessor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\MenuProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProfessor.cs [Design]",
-              "RelativeToolTip": "faculdade\\MenuProfessor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T21:41:06.71Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "DAOProfessor.cs",
               "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOProfessor.cs",
               "RelativeDocumentMoniker": "faculdade\\DAOProfessor.cs",
               "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOProfessor.cs",
               "RelativeToolTip": "faculdade\\DAOProfessor.cs",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAkwOoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T17:06:57.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T17:06:57.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AtualizarAluno.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\AtualizarAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarAluno.cs",
-              "RelativeToolTip": "faculdade\\AtualizarAluno.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DAOProva.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\DAOProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOProva.cs",
+              "RelativeToolTip": "faculdade\\DAOProva.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T01:52:50.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T17:07:13.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "AtualizarAluno.cs [Design]",
               "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarAluno.cs",
               "RelativeDocumentMoniker": "faculdade\\AtualizarAluno.cs",
@@ -318,336 +352,361 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AtualizarCurso.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.cs",
-              "RelativeDocumentMoniker": "faculdade\\AtualizarCurso.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.cs",
-              "RelativeToolTip": "faculdade\\AtualizarCurso.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T05:01:09.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AtualizarProfessor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\AtualizarProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProfessor.cs [Design]",
-              "RelativeToolTip": "faculdade\\AtualizarProfessor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T18:45:01.562Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AtualizarCurso.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.cs",
-              "RelativeDocumentMoniker": "faculdade\\AtualizarCurso.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.cs [Design]",
-              "RelativeToolTip": "faculdade\\AtualizarCurso.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T23:22:08.907Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ConsultarAluno.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\ConsultarAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarAluno.cs [Design]",
-              "RelativeToolTip": "faculdade\\ConsultarAluno.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T18:41:13.075Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CadastrarCurso.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarCurso.cs",
-              "RelativeDocumentMoniker": "faculdade\\CadastrarCurso.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarCurso.cs [Design]",
-              "RelativeToolTip": "faculdade\\CadastrarCurso.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T23:19:48.452Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CadastrarAluno.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\CadastrarAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarAluno.cs [Design]",
-              "RelativeToolTip": "faculdade\\CadastrarAluno.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T04:47:07.12Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MenuAluno.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\MenuAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuAluno.cs [Design]",
-              "RelativeToolTip": "faculdade\\MenuAluno.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T21:40:43.75Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "MenuCurso.cs [Design]",
               "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuCurso.cs",
               "RelativeDocumentMoniker": "faculdade\\MenuCurso.cs",
               "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuCurso.cs [Design]",
               "RelativeToolTip": "faculdade\\MenuCurso.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T19:51:17.649Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-23T19:51:17.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.cs",
-              "RelativeDocumentMoniker": "faculdade\\Menu.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.cs [Design]",
-              "RelativeToolTip": "faculdade\\Menu.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Program.cs",
+              "RelativeDocumentMoniker": "faculdade\\Program.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Program.cs",
+              "RelativeToolTip": "faculdade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T17:15:02.675Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-23T03:40:15.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ExcluirCurso.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirCurso.cs",
-              "RelativeDocumentMoniker": "faculdade\\ExcluirCurso.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirCurso.cs [Design]",
-              "RelativeToolTip": "faculdade\\ExcluirCurso.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T23:22:40.371Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ExcluirAluno.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\ExcluirAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirAluno.cs [Design]",
-              "RelativeToolTip": "faculdade\\ExcluirAluno.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T18:42:24.557Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ExcluirCurso.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirCurso.cs",
-              "RelativeDocumentMoniker": "faculdade\\ExcluirCurso.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirCurso.cs",
-              "RelativeToolTip": "faculdade\\ExcluirCurso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:04:33.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ExcluirAluno.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\ExcluirAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirAluno.cs",
-              "RelativeToolTip": "faculdade\\ExcluirAluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T02:37:54.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CadastrarAluno.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\CadastrarAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarAluno.cs",
-              "RelativeToolTip": "faculdade\\CadastrarAluno.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAlwE0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T20:18:06.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ExcluirProfessor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProfessor.cs",
-              "RelativeDocumentMoniker": "faculdade\\ExcluirProfessor.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProfessor.cs [Design]",
-              "RelativeToolTip": "faculdade\\ExcluirProfessor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T18:45:20.257Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ConsultarCurso.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarCurso.cs",
-              "RelativeDocumentMoniker": "faculdade\\ConsultarCurso.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarCurso.cs [Design]",
-              "RelativeToolTip": "faculdade\\ConsultarCurso.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T23:21:43.587Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 7,
               "Title": "MenuProva.cs [Design]",
               "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProva.cs",
               "RelativeDocumentMoniker": "faculdade\\MenuProva.cs",
               "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProva.cs [Design]",
               "RelativeToolTip": "faculdade\\MenuProva.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T21:41:49.389Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-23T21:41:49.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuProfessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\MenuProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProfessor.cs [Design]",
+              "RelativeToolTip": "faculdade\\MenuProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T21:41:06.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuDisciplina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\MenuDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuDisciplina.cs [Design]",
+              "RelativeToolTip": "faculdade\\MenuDisciplina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:10:23.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuAluno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\MenuAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuAluno.cs [Design]",
+              "RelativeToolTip": "faculdade\\MenuAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T21:40:43.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.cs",
+              "RelativeDocumentMoniker": "faculdade\\Menu.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.cs [Design]",
+              "RelativeToolTip": "faculdade\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T17:15:02.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Login.cs",
+              "RelativeDocumentMoniker": "faculdade\\Login.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Login.cs [Design]",
+              "RelativeToolTip": "faculdade\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T23:36:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExcluirProva.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProva.cs [Design]",
+              "RelativeToolTip": "faculdade\\ExcluirProva.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:33:04.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExcluirProfessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProfessor.cs [Design]",
+              "RelativeToolTip": "faculdade\\ExcluirProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:45:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExcluirDisciplina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirDisciplina.cs [Design]",
+              "RelativeToolTip": "faculdade\\ExcluirDisciplina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:27:06.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExcluirCurso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirCurso.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirCurso.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirCurso.cs [Design]",
+              "RelativeToolTip": "faculdade\\ExcluirCurso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T23:22:40.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExcluirAluno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirAluno.cs [Design]",
+              "RelativeToolTip": "faculdade\\ExcluirAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:42:24.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConsultarProva.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\ConsultarProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProva.cs [Design]",
+              "RelativeToolTip": "faculdade\\ConsultarProva.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:32:32.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsultarProfessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\ConsultarProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProfessor.cs [Design]",
+              "RelativeToolTip": "faculdade\\ConsultarProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:44:31.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConsultarCurso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarCurso.cs",
+              "RelativeDocumentMoniker": "faculdade\\ConsultarCurso.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarCurso.cs [Design]",
+              "RelativeToolTip": "faculdade\\ConsultarCurso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T23:21:43.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConsultarAluno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\ConsultarAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarAluno.cs [Design]",
+              "RelativeToolTip": "faculdade\\ConsultarAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:41:13.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CadastrarProva.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProva.cs [Design]",
+              "RelativeToolTip": "faculdade\\CadastrarProva.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:27:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CadastrarProfessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProfessor.cs [Design]",
+              "RelativeToolTip": "faculdade\\CadastrarProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:43:07.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CadastrarDisciplina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarDisciplina.cs [Design]",
+              "RelativeToolTip": "faculdade\\CadastrarDisciplina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:25:59.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CadastrarCurso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarCurso.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarCurso.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarCurso.cs [Design]",
+              "RelativeToolTip": "faculdade\\CadastrarCurso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T23:19:48.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CadastrarAluno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarAluno.cs [Design]",
+              "RelativeToolTip": "faculdade\\CadastrarAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:47:07.12Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "AtualizarCurso.resx",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.resx",
-              "RelativeDocumentMoniker": "faculdade\\AtualizarCurso.resx",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.resx",
-              "RelativeToolTip": "faculdade\\AtualizarCurso.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-05-24T05:01:07.229Z",
-              "EditorCaption": ""
+              "Title": "AtualizarProva.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProva.cs [Design]",
+              "RelativeToolTip": "faculdade\\AtualizarProva.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:32:43.615Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
+              "Title": "AtualizarProfessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProfessor.cs [Design]",
+              "RelativeToolTip": "faculdade\\AtualizarProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:45:01.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AtualizarDisciplina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarDisciplina.cs [Design]",
+              "RelativeToolTip": "faculdade\\AtualizarDisciplina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:26:50.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AtualizarCurso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarCurso.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.cs [Design]",
+              "RelativeToolTip": "faculdade\\AtualizarCurso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T23:22:08.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ConsultarDisciplina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\ConsultarDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarDisciplina.cs [Design]",
+              "RelativeToolTip": "faculdade\\ConsultarDisciplina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:26:22.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.cs",
               "RelativeDocumentMoniker": "faculdade\\Menu.cs",
               "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.cs",
               "RelativeToolTip": "faculdade\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T18:17:44.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DAOAluno.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\DAOAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOAluno.cs",
-              "RelativeToolTip": "faculdade\\DAOAluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T03:41:30.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Menu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.Designer.cs",
-              "RelativeDocumentMoniker": "faculdade\\Menu.Designer.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.Designer.cs",
-              "RelativeToolTip": "faculdade\\Menu.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T23:19:14.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Menu.resx",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.resx",
-              "RelativeDocumentMoniker": "faculdade\\Menu.resx",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.resx",
-              "RelativeToolTip": "faculdade\\Menu.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-05-24T23:19:20.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Program.cs",
-              "RelativeDocumentMoniker": "faculdade\\Program.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Program.cs",
-              "RelativeToolTip": "faculdade\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T03:40:15.932Z"
+              "WhenOpened": "2026-05-23T18:17:44.952Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Login.cs",
+              "RelativeDocumentMoniker": "faculdade\\Login.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Login.cs",
+              "RelativeToolTip": "faculdade\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T23:39:00.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExcluirCurso.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirCurso.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirCurso.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirCurso.cs",
+              "RelativeToolTip": "faculdade\\ExcluirCurso.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T15:04:33.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AtualizarCurso.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarCurso.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.cs",
+              "RelativeToolTip": "faculdade\\AtualizarCurso.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:01:09.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "ConsultarCurso.cs",
               "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarCurso.cs",
               "RelativeDocumentMoniker": "faculdade\\ConsultarCurso.cs",
               "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarCurso.cs",
               "RelativeToolTip": "faculdade\\ConsultarCurso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T04:01:33.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "MenuCurso.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuCurso.cs",
-              "RelativeDocumentMoniker": "faculdade\\MenuCurso.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuCurso.cs",
-              "RelativeToolTip": "faculdade\\MenuCurso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T22:42:14.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "MenuAluno.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuAluno.cs",
-              "RelativeDocumentMoniker": "faculdade\\MenuAluno.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuAluno.cs",
-              "RelativeToolTip": "faculdade\\MenuAluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T18:58:22.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "DAOCurso.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOCurso.cs",
-              "RelativeDocumentMoniker": "faculdade\\DAOCurso.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOCurso.cs",
-              "RelativeToolTip": "faculdade\\DAOCurso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T03:52:51.793Z"
+              "WhenOpened": "2026-05-24T04:01:33.838Z"
             },
             {
               "$type": "Document",
@@ -657,34 +716,284 @@
               "RelativeDocumentMoniker": "faculdade\\CadastrarCurso.cs",
               "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarCurso.cs",
               "RelativeToolTip": "faculdade\\CadastrarCurso.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAhwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T00:08:16.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T00:08:16.079Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "DAODisciplina.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAODisciplina.cs",
-              "RelativeDocumentMoniker": "faculdade\\DAODisciplina.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAODisciplina.cs",
-              "RelativeToolTip": "faculdade\\DAODisciplina.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ExcluirProva.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProva.cs",
+              "RelativeToolTip": "faculdade\\ExcluirProva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T17:06:25.901Z"
+              "WhenOpened": "2026-05-27T23:24:08.07Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "DAOProva.cs",
-              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOProva.cs",
-              "RelativeDocumentMoniker": "faculdade\\DAOProva.cs",
-              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\DAOProva.cs",
-              "RelativeToolTip": "faculdade\\DAOProva.cs",
+              "Title": "AtualizarProva.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProva.cs",
+              "RelativeToolTip": "faculdade\\AtualizarProva.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T23:04:49.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ConsultarProva.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\ConsultarProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProva.cs",
+              "RelativeToolTip": "faculdade\\ConsultarProva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:14:39.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ConsultarDisciplina.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\ConsultarDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarDisciplina.cs",
+              "RelativeToolTip": "faculdade\\ConsultarDisciplina.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:08:24.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CadastrarProva.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProva.cs",
+              "RelativeToolTip": "faculdade\\CadastrarProva.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwJcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:00:41.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MenuProva.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProva.cs",
+              "RelativeDocumentMoniker": "faculdade\\MenuProva.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProva.cs",
+              "RelativeToolTip": "faculdade\\MenuProva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:32:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ExcluirDisciplina.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirDisciplina.cs",
+              "RelativeToolTip": "faculdade\\ExcluirDisciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:29:10.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExcluirProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirProfessor.cs",
+              "RelativeToolTip": "faculdade\\ExcluirProfessor.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:12:59.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AtualizarDisciplina.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarDisciplina.cs",
+              "RelativeToolTip": "faculdade\\AtualizarDisciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T15:19:22.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AtualizarAluno.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarAluno.cs",
+              "RelativeToolTip": "faculdade\\AtualizarAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T01:52:50.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CadastrarProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarProfessor.cs",
+              "RelativeToolTip": "faculdade\\CadastrarProfessor.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T04:49:00.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CadastrarDisciplina.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarDisciplina.cs",
+              "RelativeToolTip": "faculdade\\CadastrarDisciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:52:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MenuProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\MenuProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuProfessor.cs",
+              "RelativeToolTip": "faculdade\\MenuProfessor.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T03:26:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MenuDisciplina.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuDisciplina.cs",
+              "RelativeDocumentMoniker": "faculdade\\MenuDisciplina.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuDisciplina.cs",
+              "RelativeToolTip": "faculdade\\MenuDisciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T14:39:45.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AtualizarProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarProfessor.cs",
+              "RelativeToolTip": "faculdade\\AtualizarProfessor.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAGgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:10:33.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ExcluirAluno.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\ExcluirAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ExcluirAluno.cs",
+              "RelativeToolTip": "faculdade\\ExcluirAluno.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC4AAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T02:37:54.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ConsultarProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProfessor.cs",
+              "RelativeDocumentMoniker": "faculdade\\ConsultarProfessor.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\ConsultarProfessor.cs",
+              "RelativeToolTip": "faculdade\\ConsultarProfessor.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:10:53.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CadastrarAluno.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\CadastrarAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\CadastrarAluno.cs",
+              "RelativeToolTip": "faculdade\\CadastrarAluno.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAlwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:18:06.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AtualizarCurso.resx",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.resx",
+              "RelativeDocumentMoniker": "faculdade\\AtualizarCurso.resx",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\AtualizarCurso.resx",
+              "RelativeToolTip": "faculdade\\AtualizarCurso.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-24T05:01:07.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "faculdade\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.Designer.cs",
+              "RelativeToolTip": "faculdade\\Menu.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T17:07:13.334Z"
+              "WhenOpened": "2026-05-24T23:19:14.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Menu.resx",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.resx",
+              "RelativeDocumentMoniker": "faculdade\\Menu.resx",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\Menu.resx",
+              "RelativeToolTip": "faculdade\\Menu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-24T23:19:20.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MenuCurso.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuCurso.cs",
+              "RelativeDocumentMoniker": "faculdade\\MenuCurso.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuCurso.cs",
+              "RelativeToolTip": "faculdade\\MenuCurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:42:14.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MenuAluno.cs",
+              "DocumentMoniker": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuAluno.cs",
+              "RelativeDocumentMoniker": "faculdade\\MenuAluno.cs",
+              "ToolTip": "C:\\Users\\criss\\source\\repos\\TI23TFaculdade\\faculdade\\MenuAluno.cs",
+              "RelativeToolTip": "faculdade\\MenuAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:58:22.471Z"
             }
           ]
         }
