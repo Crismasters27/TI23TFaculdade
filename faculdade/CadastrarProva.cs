@@ -112,12 +112,30 @@ namespace faculdade
             this.Close();
         }// fim do botão voltar
 
-        private void TxtNota_TextChanged(object sender, EventArgs e) { }
-        private void DtpDataRealizacao_ValueChanged(object sender, EventArgs e) { }
-        private void TextObservacao_TextChanged(object sender, EventArgs e) { }
-        private void CmbMatricula_SelectedIndexChanged(object sender, EventArgs e) { }
-        private void CmbDisciplina_SelectedIndexChanged(object sender, EventArgs e) { }
-        private void CmbProfessor_SelectedIndexChanged(object sender, EventArgs e) { }
+        private void TxtNota_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void DtpDataRealizacao_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void TextObservacao_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void CmbMatricula_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void CmbDisciplina_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void CmbProfessor_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
 
         private void label3_Click(object sender, EventArgs e)
         {
